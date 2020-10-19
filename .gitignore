@@ -19,5 +19,6 @@
 # DirectoryA/DirectoryQ/DirectoryW/DirectoryB/
 **/build/
 **/nbproject/
+**/dist/
 **/build.xml
 **/manifest.mf
