@@ -34,7 +34,7 @@ public class Boletin6_3 {
         circulo1.setRadio(1);
         System.out.println("Longitud circunferencia: "+circulo1.calcularLonxitude());
         
-        Circulo circulo2 = new Circulo(2);
+        Circulo circulo2 = new Circulo(3);
         System.out.println("Área del circulo de radio "+circulo2.getRadio()+" es: "+circulo2.calcularArea());
     }
     
